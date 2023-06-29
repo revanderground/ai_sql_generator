@@ -74,5 +74,8 @@ p, input {
 .message-display {
   width: 100%;
   display: flex;
-  
+  border-radius: 5px;
+  box-sizing: border-box;
+  background-color: rgb(250, 250, 250);
+  margin: 5px 0;
 }
